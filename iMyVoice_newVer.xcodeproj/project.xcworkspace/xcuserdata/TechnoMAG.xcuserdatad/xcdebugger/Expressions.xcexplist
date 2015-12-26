@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "-[NewBoardOptions_viewcontroller doLoadNewBoard]:NewBoardOptions_viewcontroller.m">
+      </ContextState>
+      <ContextState
+         contextName = "-[NewBoardOptions_viewcontroller collectionView:didSelectItemAtIndexPath:]:NewBoardOptions_viewcontroller.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "currCell.txtBoardName.tag != currCell_class.indx">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[EditBoard_viewcontroller viewDidLoad]:EditBoard_viewcontroller.m">
+      </ContextState>
+      <ContextState
+         contextName = "-[NewBoardOptions_viewcontroller collectionView:cellForItemAtIndexPath:]:NewBoardOptions_viewcontroller.m">
+      </ContextState>
+      <ContextState
+         contextName = "-[SplitView_manual_viewcontroller viewWillAppear:]:SplitView_manual_viewcontroller.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.navigationController">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[EditBoard_viewcontroller collectionView:cellForItemAtIndexPath:]:EditBoard_viewcontroller.m">
+      </ContextState>
+      <ContextState
+         contextName = "-[EditBoard_viewcontroller viewWillAppear:]:EditBoard_viewcontroller.m">
+      </ContextState>
+      <ContextState
+         contextName = "-[NewBoardOptions_viewcontroller saveboard]:NewBoardOptions_viewcontroller.m">
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>
